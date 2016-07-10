@@ -1,0 +1,7 @@
+将本地方法连接到java中：
+1.在java类中声明一个本地方法;
+2.运行javah以获得包含该方法的C声明的头文件;
+3.用C实现该本地方法;
+4.将代码置于共享库中;
+	cl -I "%JAVA_HOME%\include" -I "%JAVA_HOME%\include\win32" -LD HelloNative.c -FeHelloNative.dll
+5.在java程序中加载该共享库.
