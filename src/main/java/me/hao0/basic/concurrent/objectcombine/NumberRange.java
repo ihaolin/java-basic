@@ -1,6 +1,6 @@
 package me.hao0.basic.concurrent.objectcombine;
 
-import me.hao0.concurrency.practice.threadsafe.NotThreadSafe;
+import me.hao0.basic.concurrent.threadsafe.NotThreadSafe;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

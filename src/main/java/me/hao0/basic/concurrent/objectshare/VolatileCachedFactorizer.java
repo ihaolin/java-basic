@@ -1,9 +1,9 @@
 package me.hao0.basic.concurrent.objectshare;
 
-import me.hao0.concurrency.practice.threadsafe.Servlet;
-import me.hao0.concurrency.practice.threadsafe.ServletRequest;
-import me.hao0.concurrency.practice.threadsafe.ServletResponse;
-import me.hao0.concurrency.practice.threadsafe.ThreadSafe;
+import me.hao0.basic.concurrent.threadsafe.Servlet;
+import me.hao0.basic.concurrent.threadsafe.ServletRequest;
+import me.hao0.basic.concurrent.threadsafe.ServletResponse;
+import me.hao0.basic.concurrent.threadsafe.ThreadSafe;
 
 import java.math.BigInteger;
 

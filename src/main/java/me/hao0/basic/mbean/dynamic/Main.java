@@ -1,6 +1,6 @@
 package me.hao0.basic.mbean.dynamic;
 
-import me.hao0.mbean.standard.ServerImpl;
+import me.hao0.basic.mbean.standard.ServerImpl;
 
 import javax.management.MBeanServer;
 import javax.management.MBeanServerFactory;

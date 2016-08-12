@@ -1,6 +1,6 @@
 package me.hao0.basic.concurrent.cancelclose;
 
-import me.hao0.concurrency.practice.threadsafe.ThreadSafe;
+import me.hao0.basic.concurrent.threadsafe.ThreadSafe;
 
 import java.math.BigInteger;
 import java.util.ArrayList;

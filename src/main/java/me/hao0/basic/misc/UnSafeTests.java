@@ -1,6 +1,6 @@
 package me.hao0.basic.misc;
 
-import me.hao0.entities.Person;
+import me.hao0.basic.entities.Person;
 import org.junit.Before;
 import org.junit.Test;
 import sun.misc.Unsafe;

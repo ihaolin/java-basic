@@ -1,6 +1,6 @@
 package me.hao0.basic.concurrent.locks;
 
-import me.hao0.concurrency.practice.avoidactiveness_danger.Account;
+import me.hao0.basic.concurrent.avoidactiveness_danger.Account;
 
 import java.util.Random;
 import java.util.concurrent.TimeUnit;

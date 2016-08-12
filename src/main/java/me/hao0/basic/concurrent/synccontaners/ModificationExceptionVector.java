@@ -1,7 +1,7 @@
 package me.hao0.basic.concurrent.synccontaners;
 
-import me.hao0.concurrency.practice.threadsafe.NotThreadSafe;
-import me.hao0.entities.Person;
+import me.hao0.basic.concurrent.threadsafe.NotThreadSafe;
+import me.hao0.basic.entities.Person;
 
 import java.util.Iterator;
 import java.util.Random;

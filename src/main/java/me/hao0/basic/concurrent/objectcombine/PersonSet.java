@@ -1,7 +1,7 @@
 package me.hao0.basic.concurrent.objectcombine;
 
-import me.hao0.concurrency.practice.threadsafe.ThreadSafe;
-import me.hao0.entities.Person;
+import me.hao0.basic.concurrent.threadsafe.ThreadSafe;
+import me.hao0.basic.entities.Person;
 
 import java.util.HashSet;
 import java.util.Set;

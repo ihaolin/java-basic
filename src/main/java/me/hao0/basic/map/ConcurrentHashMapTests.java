@@ -1,6 +1,6 @@
 package me.hao0.basic.map;
 
-import me.hao0.entities.Person;
+import me.hao0.basic.entities.Person;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

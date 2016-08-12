@@ -1,6 +1,6 @@
 package me.hao0.basic.concurrent.synccontaners;
 
-import me.hao0.concurrency.practice.threadsafe.NotThreadSafe;
+import me.hao0.basic.concurrent.threadsafe.NotThreadSafe;
 
 import java.util.Vector;
 

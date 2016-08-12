@@ -1,6 +1,7 @@
 package me.hao0.basic.map;
 
-import me.hao0.entities.Person;
+
+import me.hao0.basic.entities.Person;
 
 import java.util.Hashtable;
 

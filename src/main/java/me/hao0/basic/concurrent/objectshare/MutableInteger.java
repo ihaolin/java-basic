@@ -1,7 +1,7 @@
 package me.hao0.basic.concurrent.objectshare;
 
 
-import me.hao0.concurrency.practice.threadsafe.ThreadSafe;
+import me.hao0.basic.concurrent.threadsafe.ThreadSafe;
 
 /**
  * 将get, set同步化，可防止数据失效

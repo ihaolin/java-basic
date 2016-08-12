@@ -1,6 +1,6 @@
 package me.hao0.basic.concurrent.cancelclose;
 
-import me.hao0.concurrency.practice.tests.BoundedBuffer;
+import me.hao0.basic.concurrent.syncutils.BoundedBuffer;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

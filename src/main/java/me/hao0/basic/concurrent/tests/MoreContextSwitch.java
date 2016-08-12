@@ -1,6 +1,7 @@
 package me.hao0.basic.concurrent.tests;
 
-import me.hao0.concurrency.practice.avoidactiveness_danger.Account;
+
+import me.hao0.basic.concurrent.avoidactiveness_danger.Account;
 
 import java.util.Random;
 
