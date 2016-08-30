@@ -32,7 +32,7 @@ public class KryoTest {
     }
 
     @Test
-    public void testDerialize() throws FileNotFoundException {
+    public void testDeserialize() throws FileNotFoundException {
         Kryo kryo = new Kryo();
         Input input = new Input(new FileInputStream("file.bin"));
         Person p = kryo.readObject(input, Person.class);
@@ -48,7 +48,7 @@ public class KryoTest {
         p.setId(1L);
         p.setUsername("haolin");
         p.setAge(10);
-        p.setGrade(1);
+        //p.setGrade(1);
 
         CompatibleFieldSerializer serializer = new CompatibleFieldSerializer(kryo, Person.class);
 
