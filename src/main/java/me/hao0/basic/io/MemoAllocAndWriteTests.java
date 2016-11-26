@@ -1,4 +1,4 @@
-package me.hao0.basic.memo;
+package me.hao0.basic.io;
 
 import org.junit.Test;
 import sun.misc.Unsafe;

@@ -4,3 +4,4 @@ target/
 .DS_Store
 Avs1*.java
 file.bin
+*.txt
